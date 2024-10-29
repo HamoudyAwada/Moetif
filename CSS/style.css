@@ -27,3 +27,31 @@ nav a:hover{
     background-color: #559155;
     border-radius: 2em;
 }
+
+h1, h2, h3, h4, h5, h6{
+    display: flex;
+    font-size: 1.7em;
+    justify-content:center;
+}
+
+p{
+margin: 2em;
+text-align: center;
+text-justify: inter-word;
+}
+
+section a{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    background-color: #61a161;
+    margin: 0em 43em;
+    border-radius: 1em;
+    padding: 1em;
+}
+
+section a:hover{
+    background-color: #559155;
+    border-radius: 1em;
+    padding: 1em;
+}
