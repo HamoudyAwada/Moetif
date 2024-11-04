@@ -64,3 +64,7 @@ section a:hover{
     border-radius: 4em;
     padding: 0.75em;
 }
+
+footer{
+    justify-content: center;
+}
